@@ -1,6 +1,6 @@
 {
   "name": "quick-plugins",
-  "version": "1.2.7",
+  "version": "1.2.15",
   "description": "Construction of the quickjs",
   "main": "index.js",
   "scripts": {
