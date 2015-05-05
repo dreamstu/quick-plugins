@@ -1,6 +1,6 @@
 {
   "name": "quick-plugins",
-  "version": "1.2.18",
+  "version": "1.2.20",
   "description": "Construction of the quickjs",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/dreamstu/quick-plugins",
   "dependencies":{
     "lodash":"~3.0.0",
-    "grunt-legacy-log":"~0.1.0",
+    "colorful": "~2.1.0",
     "bluebird":"^2.3.11",
     "findup":"^0.1.5"
   }
